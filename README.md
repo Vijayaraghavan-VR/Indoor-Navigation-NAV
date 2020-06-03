@@ -1,7 +1,7 @@
 # Indoor-Navigation-NAV
 This is an app for Indoor Navigation with AR. This was developed for the Smart India Hackathon 2020.
 <p align="center">
-  <img width="70%" src="https://github.com/Vijayaraghavan-VR/Indoor-Navigation-NAV/blob/master/Assets/Nav-L\ogo.png">
+  <img width="70%" src="https://github.com/Vijayaraghavan-VR/Indoor-Navigation-NAV/blob/master/Assets/Nav-Logo.png">
 </p>
 
 # NAV-MY-WAY
